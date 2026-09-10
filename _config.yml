@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Arif Mehdi"
-  pronouns         : # example: "her"  
+  pronouns         :   
   bio              : "Postdoctoral Researcher | Power System Protection | AI & Deep Learning for AC/DC and MVDC Networks"
   location         : "Seoul, South Korea"
   employer         : "Seoul National University of Science and Technology(SeoulTech)"
