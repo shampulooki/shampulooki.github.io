@@ -23,7 +23,7 @@ repository               : "shampulooki/shampulooki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png.jpg"
   name             : "Arif Mehdi"
   pronouns         :   
   bio              : "Postdoctoral Researcher | Power System Protection | AI & Deep Learning for AC/DC and MVDC Networks"
