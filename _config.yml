@@ -28,7 +28,7 @@ author:
   pronouns         :   
   bio              : "Postdoctoral Researcher | Power System Protection | AI & Deep Learning for AC/DC and MVDC Networks"
   location         : "Seoul, South Korea"
-  employer         : "Seoul National University of Science and Technology(SeoulTech)"
+  employer         : "SeoulTech"
   uri              : # URL
   email            : "mehdiarif@g.ssku.edu" 
 
@@ -38,13 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=FPw4ms8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3745-2698"
+  orcid            : "https://orcid.org/0000-0002-3745-2698"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  pubmed           :
+  researchgate     : 
    LinkedIn       : # "https://www.linkedin.com/in/arif-mehdi-ph-d-73120948/"
 
   # Repositories and software development
